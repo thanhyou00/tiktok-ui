@@ -43,7 +43,7 @@ const MENU_ITEMS = [
                     type: 'language',
                     code: 'vn',
                     title: 'Tiếng Việt',
-                },
+                },       
             ],
         },
     },
